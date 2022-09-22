@@ -7,7 +7,7 @@ Topic :Game Design in C++
 Course: Programming in C++
 Students: Junior and Seniors that have completed a programming language such as Python and Java
 
-Why you chose this particular topic:?
+Why I chose this particular topic:?
  I feel a course of this type would grab students attention because they would have an interest in programming something they can relate to being video gaming. 
 
 What computer science curricular needs does this topic fill:
